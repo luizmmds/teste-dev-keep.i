@@ -1,0 +1,10 @@
+[
+  {"dia": "2017-05-01", "grupo": "grupo1", "valor": 1},
+  {"dia": "2017-05-01", "grupo": "grupo2", "valor": 6},
+  {"dia": "2017-05-02", "grupo": "grupo1", "valor": 1},
+  {"dia": "2017-05-03", "grupo": "grupo1", "valor": 1},
+  {"dia": "2017-05-03", "grupo": "grupo2", "valor": 2},
+  {"dia": "2017-05-04", "grupo": "grupo2", "valor": 2},
+  {"dia": "2017-05-05", "grupo": "grupo1", "valor": 5},
+  {"dia": "2017-05-05", "grupo": "grupo2", "valor": 10}
+]
