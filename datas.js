@@ -34,7 +34,7 @@ function testar() {
 
   const datasEsperado = [
     new Date(2017, 5, 30), new Date(2017, 6, 1),
-    new Date(2017, 6, 2), new Date(2017, 6, 4)
+    new Date(2017, 6, 2), new Date(2017, 6, 3)
   ];
 
   assert.deepEqual(datas, datasEsperado);
