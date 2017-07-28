@@ -33,3 +33,13 @@ libs externas se desejar. Nesse caso, não esqueça de adicionar ao package.json
 ## Dependências
 
 - NodeJS (6.11.x ou +)
+
+## Referências
+
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+- https://nodejs.org/api/fs.html
+- https://nodejs.org/api/path.html
+- https://nodejs.org/api/assert.html
