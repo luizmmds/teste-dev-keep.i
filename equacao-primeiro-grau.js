@@ -8,7 +8,7 @@ const assert = require('assert');
  *
  * Por exemplo, dada a função calcularX(a, b, r):
  * Para 2x + 1 = 0, temos a=2, b=1, r=0, calcularX(2, 1, 0) deve retornar -0.5.
- * Para 2x + 1 = 1, temos a=2, b=1, r=1, calcularX(2, 1, 1) deve retornar -0.
+ * Para 2x + 1 = 1, temos a=2, b=1, r=1, calcularX(2, 1, 1) deve retornar 0.
  * Etc. (ver testes)
  *
  */
