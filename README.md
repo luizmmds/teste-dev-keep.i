@@ -7,13 +7,13 @@ implementada e logo em seguida um teste para a função em questão:
 
 - **equação-primeiro-grau.js**: você deve implementar a função calcularX(a, b, r) que encontra a raiz (valor de x) de equações do primeiro grau no formato ax + b = r.
 
-- **maximo-e-minimo.js**: vocẽ deve implementar as funções obterMinimo(lista) e obterMaximo(lista). As duas funções recebem uma lista (array) de números inteiros e devem retornar o menor e maior número da lista respectivamente.
+- **maximo-e-minimo.js**: você deve implementar as funções obterMinimo(lista) e obterMaximo(lista). As duas funções recebem uma lista (array) de números inteiros e devem retornar o menor e maior número da lista respectivamente.
 
 - **datas.js**: você deve implementar a função datasNoIntervalo(inicio, fim). A função recebe dois parametros, inicio e fim, que são objetos Date do JS e deve retornar uma lista (array) com todas as datas entre inicio e fim, incluindo estas duas.
 
-- **dados-total.js**: Você deve implementar a função calcularTotal(dados). A função recebe os dados que estão no arquivo ./dados/dados.json e precisa retornar a soma do campo 'valor' de todas as linhas.
+- **dados-total.js**: você deve implementar a função calcularTotal(dados). A função recebe os dados que estão no arquivo ./dados/dados.json e precisa retornar a soma do campo 'valor' de todas as linhas.
 
-- **dados-total-grupos.js**: Você deve implementar a função calcularTotalPorGrupo(dados). A função recebe os dados que estão no arquivo ./dados/dados.json e precisa retornar a soma do campo 'valor' agrupada pelo campo 'grupo'.
+- **dados-total-grupos.js**: você deve implementar a função calcularTotalPorGrupo(dados). A função recebe os dados que estão no arquivo ./dados/dados.json e precisa retornar a soma do campo 'valor' agrupada pelo campo 'grupo'.
 
 ## Entrega
 
