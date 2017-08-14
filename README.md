@@ -19,6 +19,8 @@ implementada e logo em seguida um teste para a função em questão:
 
 Crie seu próprio repositório no Github com a resolução e nos envie o link.
 
+Caso não haja tempo hábil para a entrega dos 5 testes resolvidos, a entrega pode ser parcial. Nós avaliaremos o que for entregue.
+
 ## Testes
 
 Para executar o teste de cada função, basta executar o respectivo arquivo, por exemplo: `node arquivo.js`.
