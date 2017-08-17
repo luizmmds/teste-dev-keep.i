@@ -14,7 +14,7 @@ const assert = require('assert');
  */
 function calcularX(a, b, r) {
   // TODO implementar
-  throw new Error('calcularX não implementada');
+  return (r - b) / a;
 }
 
 /**

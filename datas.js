@@ -17,7 +17,13 @@ const assert = require('assert');
  */
 function datasNoIntervalo(inicio, fim) {
   // TODO implementar
-  throw new Error('datasNoIntervalo não implementada');
+  var dates = [];
+  var newDate = inicio;
+  while(newDate <= fim){
+    dates.push(new Date(newDate));
+    newDate.setDate(newDate.getDate() + 1);
+  }
+  return dates;
 }
 
 /**

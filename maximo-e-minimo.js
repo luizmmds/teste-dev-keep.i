@@ -14,12 +14,23 @@ const assert = require('assert');
 
 function obterMinimo(lista) {
   // TODO implementar
-  throw new Error('obterMinimo não implementada');
+  var min = lista[0];
+  for(var i=1; i < lista.length; i++){
+    if(min > lista[i]){
+      min = lista[i]
+    }
+  }
+  return min
 }
 
 function obterMaximo(lista) {
-  // TODO implementar
-  throw new Error('obterMaximo não implementada');
+  var max = lista[0];
+  for(var i=1; i < lista.length; i++){
+    if(max < lista[i]){
+      max = lista[i]
+    }
+  }
+  return max
 }
 
 /**

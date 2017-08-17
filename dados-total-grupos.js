@@ -16,7 +16,15 @@ const obterDados = require('./dados').obterDados;
  */
 function calcularTotalPorGrupo(dados) {
   // TODO implementar
-  throw new Error('calcularTotalPorGrupo não implementada');
+  var groups = {};
+  dados.forEach(function(item){
+    if(groups[item.grupo] === undefined){
+      groups[item.grupo] = item.valor
+    }else{
+      groups[item.grupo] += item.valor
+    }
+  })
+  return groups;
 }
 
 /**

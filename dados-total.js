@@ -15,8 +15,11 @@ const obterDados = require('./dados').obterDados;
  *  calcularTotal(dados); // retorna 28
  */
 function calcularTotal(dados) {
-  // TODO implementar
-  throw new Error('calcularTotal não implementada');
+  var total = 0;
+  dados.forEach(function(item){
+    total += item.valor;
+  })
+  return total;
 }
 
 /**
